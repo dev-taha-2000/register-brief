@@ -1,0 +1,57 @@
+.grad {
+    height: 1000px;
+    background-image: linear-gradient(to bottom right, rgb(114, 89, 206), rgb(196, 85, 181));
+  }
+.username{
+       margin-left:250px;
+       margin-top:-39px;
+}
+#email{
+    margin-top:40px;
+}
+.password{
+    margin-top:55px;
+}
+.phone{
+    margin-left:250px;
+    margin-top: -135px;
+}
+.confirm{
+    margin-left:250px;
+    margin-top: 57px;
+}
+.male{
+    margin-left:20px ;
+}
+.inmal{
+    margin-top: -17px;
+}
+.famale{
+       margin-left:100px;
+       margin-top:-20px ;
+}
+.infamale{
+    margin-left:80px;
+    margin-top: -18px;
+}
+
+.prefer{
+    margin-left:200px;
+    margin-top:-20px;
+}
+.inprefer{
+    margin-left:180px ;
+    margin-top:-19px;
+}
+.register{
+      border-radius: 2Px 2px;  
+}
+.dad{
+    margin-top:100px;
+    margin-left:400px;
+    border: solid black;
+    display: inline-block;
+    padding:40px;
+    background-color: rgba(255, 255, 255, 0.904);
+    border-radius:20px ;
+}
